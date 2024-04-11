@@ -4,8 +4,14 @@
 colab syntax
 based on https://github.com/PaulusCereus/PaulusCereus.git
 
+## result
+```
+build/example.model
+build/keras2cpp
+```
 
 
+## run
 ```
 # ----------------------------------
 import os
@@ -23,7 +29,7 @@ os.chdir('build')
 
 # ----------------------------------
 # generate example.model
-!python3 ../python_model.py
+!python3 ../python_model.py 
 
 # ----------------------------------
 # generate keras2cpp (build cpp)
