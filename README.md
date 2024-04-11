@@ -2,7 +2,8 @@
 
 
 colab syntax
-based on https://github.com/PaulusCereus/PaulusCereus.git
+
+based on repo https://github.com/PaulusCereus/PaulusCereus.git
 
 ## result
 ```
